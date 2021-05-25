@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/Joseph/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Joseph/LevelSelect.unity
+    path: Assets/Scenes/GameScene.unity
     guid: 33b3718e85fa32748a53fa264a6cb44a
+  - enabled: 1
+    path: Assets/Joseph/CreditScene1.unity
+    guid: 4ce8a32319ad2004393638a7c8ebbc1a
+  - enabled: 1
+    path: Assets/Joseph/CreditScene2.unity
+    guid: 380222d8173d6234781d3ed263b1024f
   m_configObjects: {}
